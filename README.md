@@ -1,73 +1,59 @@
- Welcome to your Lovable project
+ # 🚀 Divya's Digital Portfolio
 
-## Project info
+Welcome to my corner of the internet! This is the official repository of my personal portfolio website — a carefully crafted space where **code meets creativity**, and **projects meet purpose**.
 
-**URL**: https://lovable.dev/projects/51bbaa8b-5bdf-451d-84ed-cf0a34b85160
+## 🌟 About Me
 
-## How can I edit this code?
+I’m Divya, a passionate AI/ML engineer, full-stack developer, and problem solver who believes that technology should **solve real-world problems** — not just exist for its own sake. My work blends data-driven intelligence with design, reflecting who I am both as a **technologist** and as a **human**.
 
-There are several ways of editing your application.
+## 🧠 What You'll Find Here
 
-**Use Lovable**
+- 🧠 **About** – Who I am and why I build.
+- 🛠️ **Skills** – Tools, languages, and frameworks I love.
+- 📁 **Projects** – End-to-end products, AI tools, and creative tech.
+- 🚀 **Startup** – Learn about the ventures I’m founding and scaling.
+- 🖥️ **GitHub** – Explore my open-source work and dev journey.
+- 🌐 **LinkedIn** – Connect and collaborate professionally.
+- 📄 **Resume** – One scroll to see it all.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/51bbaa8b-5bdf-451d-84ed-cf0a34b85160) and start prompting.
+## 🛠️ Tech Stack
 
-Changes made via Lovable will be committed automatically to this repo.
+This portfolio was built using:
 
-**Use your preferred IDE**
+- ⚡ **Vite** – For blazing-fast builds and dev experience
+- ⚛️ **React** + **TypeScript** – Strongly-typed, component-driven UI
+- 🎨 **Tailwind CSS** – Clean, responsive design
+- 🧱 **shadcn/ui** – Accessible, beautiful UI components
+- 💡 **Framer Motion** – For smooth animations
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 📌 Why I Built This
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+This isn't just a portfolio — it’s a **living reflection** of my growth, passion, and aspirations. I wanted to go beyond a static resume and create a platform where I can share my story, showcase my projects, and connect with like-minded creators and recruiters.
 
-Follow these steps:
+## ⚡ Features
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+- 🔍 AI-powered project descriptions and skill tagging
+- 📱 Fully responsive across devices
+- 💬 Interactive elements and animations (Framer Motion magic!)
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## 🧩 Future Plans
 
-# Step 3: Install the necessary dependencies.
-npm i
+- ✨ Integrate an AI chatbot (based on my past projects) to answer questions about my work
+- 🌓 Dark mode toggle
+- 📝 Add technical blogs and tutorials
+- 📊 Real-time GitHub contribution visualizer
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+## 📫 Let's Collaborate
 
-**Edit a file directly in GitHub**
+If you’re a recruiter, engineer, founder, or just a curious mind — I’d love to connect!
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+- ✉️ Email: ddivya.officially@gmail.com
+- 🌐 [LinkedIn](https://www.linkedin.com/in/divya-ji4/)
+- 💻 [Portfolio Live](https://divya5-11-04.github.io/my-portfolio/)
 
-**Use GitHub Codespaces**
+---
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+> “Build with intention. Design with empathy. Learn without limits.”
 
-## What technologies are used for this project?
+Thank you for visiting — and if you like what you see, don’t forget to ⭐ this repo!
 
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/51bbaa8b-5bdf-451d-84ed-cf0a34b85160) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
